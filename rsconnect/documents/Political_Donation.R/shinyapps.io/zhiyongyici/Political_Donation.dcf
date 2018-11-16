@@ -1,0 +1,13 @@
+name: Political_Donation
+title: Political_Donation
+username:
+account: zhiyongyici
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 575142
+bundleId: 1703671
+url: https://zhiyongyici.shinyapps.io/Political_Donation/
+when: 1542335829.70133
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
